@@ -1,4 +1,5 @@
-# Customer Segmentation for an E-commerce Site
+# Customer Segmentation for an E-commerce Site 😊😊
+*(French version below)* 😊
 
 ## Project Overview  
 This project aims to segment customers of an e-commerce platform using unsupervised classification methods. The objective is to provide actionable insights and customer segmentation to optimize communication campaigns and maintain segment relevance over time.
@@ -73,7 +74,7 @@ The dataset includes the following tables:
 
 ---
 
-# Segmentation des clients d'un site e-commerce
+# Segmentation des clients d'un site e-commerce 😊😊
 
 ## Contexte
 
