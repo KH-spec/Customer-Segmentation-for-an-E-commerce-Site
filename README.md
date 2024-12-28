@@ -1,4 +1,3 @@
-```markdown
 # Customer Segmentation for an E-commerce Site
 
 ## Project Overview  
@@ -71,4 +70,3 @@ The dataset includes the following tables:
 - Enhance feature selection with domain-specific insights.  
 - Explore advanced clustering algorithms such as **Gaussian Mixture Models**.  
 - Automate the maintenance and re-segmentation process.
-```
