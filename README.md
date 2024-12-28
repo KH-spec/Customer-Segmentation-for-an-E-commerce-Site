@@ -1,5 +1,3 @@
-Voici un fichier `README.md` bien structuré pour votre projet :  
-
 ```markdown
 # Customer Segmentation for an E-commerce Site
 
